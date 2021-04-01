@@ -2,7 +2,7 @@
 <manifest>
 
   <remote  name="wave"
-           fetch="https://github.com/Wave-Project"
+           fetch="https://github.com/WaveOS-Project"
            revision="r" />
 
   <remote  name="github"
